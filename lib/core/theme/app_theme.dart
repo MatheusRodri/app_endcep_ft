@@ -11,6 +11,8 @@ class AppTheme {
   static const Color successColor = Color(0xFF10B981); // Verde vibrante
   static const Color warningColor = Color(0xFFF59E0B); // Laranja vibrante
 
+  AppTheme._();
+
   static ThemeData get lightTheme {
     return ThemeData(
       colorScheme: ColorScheme.fromSeed(
