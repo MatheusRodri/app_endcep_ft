@@ -1,16 +1,35 @@
-# app_endcep_ft
+# 🚀 End Cep
 
-A new Flutter project.
+Aplicativo na qual tem o objetivo de fazer a busca do cep e trazer as informações do mesmo, como Estado,Cidade,Bairro e Rua
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✅ Requisitos
 
-A few resources to get you started if this is your first Flutter project:
+Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Editor de código (Ex: Visual Studio Code, Android Studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tecnologias Utilizadas
+
+O projeto foi construído com as seguintes tecnologias:
+
+### 🎨 Front-end
+- Flutter
+  - http
+  - mask_text_input_formatter
+
+---
+
+## ▶️ Como Executar o Projeto
+
+Siga os passos abaixo para rodar o projeto localmente:
+
+- Clone ou baixe o repositório
+- Entre no diretório do projeto
+- Execute o comando `flutter pub get` para instalar as dependências
+- Conecte um dispositivo Android ou inicie um emulador
+- Execute o comando `flutter run` para iniciar o aplicativo
