@@ -9,6 +9,8 @@ Aplicativo na qual tem o objetivo de fazer a busca do cep e trazer as informaç�
 Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
 
 - Flutter
+- Dart
+- Dispositivo Android ou emulador configurado
 - Editor de código (Ex: Visual Studio Code, Android Studio)
 
 ---
